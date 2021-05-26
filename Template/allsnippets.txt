@@ -1,0 +1,17 @@
+https://github.com/jspw/VS-Code-Config/blob/master/Config-Files/C&C++/Linux/tasks.json
+
+All Snippets
+
+C language
+
+>for 
+>for2
+>for3
+
+>forif
+
+>cfunction
+
+CPP
+
+>cppfunction
